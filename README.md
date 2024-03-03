@@ -1,4 +1,6 @@
-# firefly-cam
+# Firefly Cam
+
+Visit the website at [https://bartslinger.github.io](https://bartslinger.github.io)
 
 Because the USB microscope image is mirrored when using Photo Booth on MacOS, and because this stupid application has no option to mirror the view, I created this website. It is installable as a PWA (Progressive Web Application) for offline use.
 
